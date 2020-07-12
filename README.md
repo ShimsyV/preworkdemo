@@ -1,2 +1,0 @@
-# preworkdemo
-learning about GitHub
